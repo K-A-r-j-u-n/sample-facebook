@@ -1,0 +1,239 @@
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+}
+.logo{
+    width: 50%;
+    padding-top: 33px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 8px;
+}
+.logo-text{
+    color: beige;
+    text-decoration: none;
+    font-size: 31px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    margin-left: 170px;
+}
+.login-controls{
+    color: beige;
+    font-size: 13px;
+    margin-left: 115px;
+
+}
+.forgotten{
+    color:#b6b6e0;
+    padding-left: 6px;
+    text-decoration: none;
+}
+.submit{
+    background-color:#7070b9;
+    border-radius: 3px;
+    width: 45px;
+    height: 22px;
+    color: cornsilk;
+    cursor: pointer;
+    border-color: rgb(69, 80, 236);
+}
+.submit:hover{
+    background: rgb(145, 175, 131);
+}
+.td-1{
+    padding-right: 15px;
+}
+.td-2{
+    padding-right: 15px;
+}
+.td-3{
+    padding-right: 15px;
+}
+.logo-text:hover{
+    color: rgb(0, 255, 170);
+}
+.left-section{
+    width:45%;
+    float: left;
+    height: 500px;
+    padding-left: 188px;
+    padding-top: 25px;
+}
+.right-section{
+    width: 41%;
+    float: left;
+    height: 500px;
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E3);
+    width: 100%;
+    height: 540px;
+}
+.image{
+    width: 440px;
+}
+.para{
+    font-weight: bold;
+    font-size: 23px;
+    color: #2c3850;   
+}
+.word-1{
+    font-weight:700;
+    font-size: 38px;
+    margin-bottom: 6px;
+}
+.para-1{
+    font-size: 17px;
+    font-weight:500;
+    margin-top: 5px;
+}
+*{
+    padding: 0px;
+}
+.fname{
+    width: 210px;
+    height: 34px;
+    border-radius: 5px;
+    border: 2px solid;
+    padding-left: 5px;
+    border-color: rgb(179, 175, 175);
+    
+}
+.sname{
+    width: 210px;
+    height: 34px;
+    border:2px solid;
+    margin-left: 12px;
+    border-radius: 5px;
+    padding-left: 5px;
+    border-color: rgb(179, 175, 175);
+}
+.number{
+    width: 442px;
+    height: 34px;
+    border:2px solid;
+    margin-top:10px;
+    border-radius: 5px;
+    padding-left: 5px;
+    border-color: rgb(179, 175, 175);
+}
+.passwd{
+    border: 2px solid;
+    width: 442px;
+    height: 34px;
+    margin-top:10px;
+    border-radius: 5px;
+    padding-left: 5px;
+    margin-bottom: 15px;
+    border-color: rgb(179, 175, 175);
+}
+::placeholder{
+    font-size: 17px;
+}
+.select-day{
+    width: 50px;
+    height:30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-color: darkgray;
+}
+.birthday-label{
+    font-weight:bold;
+    font-size: 17px;
+    color: #8d8dad;
+}
+.select-month{
+    width: 70px;
+    height:30px;
+    border-color: darkgray;
+}
+.select-year{
+    width: 80px;
+    height:30px;
+    border-color: darkgray;
+}
+.gender-label{
+    font-weight:bold;
+    font-size: 17px;
+    color: #8d8dad;
+}
+.female-radio{
+    margin-top: 15px;
+}
+.male-radio{
+    margin-left: 20px;
+}
+.other-radio{
+    margin-left: 20px;
+}
+.female-label{
+    font-size: 20px;
+}
+.male-label{
+    font-size: 20px;
+}
+.other-label{
+    font-size: 20px;
+}
+.para-2{
+    font-size:12px;
+}
+a{
+    text-decoration: none;
+}
+.signup-button{
+    background: linear-gradient(rgb(54, 204, 54),rgb(37, 117, 37));
+    margin-top: 14px;
+    border-radius: 5px;
+    color:cornsilk;
+    font-weight:bolder;
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    border-bottom-color:rgb(190, 188, 188);
+    border-right-color: rgb(190, 188, 188);
+}
+.signup-button:hover{
+    background:rgba(23, 207, 6, 0.849)
+}
+.footer-div{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    padding-top: 10px;
+}
+.para-3{
+    font-size:12px;
+    text-align:center;
+    margin-bottom: 0px;
+}
+
+li {
+    float: left;
+    padding: 20px;
+}
+
+ul{
+    list-style:none;
+    text-align: center;
+}
+.list-div{
+    padding-left: 35%;
+    margin-top: 0px;  
+}
+input:hover{
+    cursor: pointer;
+    border-color: deepskyblue;
+}
+
+
+
